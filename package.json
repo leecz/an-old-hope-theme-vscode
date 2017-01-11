@@ -1,8 +1,8 @@
 {
-    "name": "an-old-hope-theme-vscode",
-    "displayName": "An Old Hope Theme",
-    "description": "vscode theme inspired by @JesseLeite's atom syntax",
-    "version": "1.1.0",
+    "name": "chris young dark theme",
+    "displayName": "chris young dark theme",
+    "description": "chris young dark theme",
+    "version": "1.1.1",
     "publisher": "dustinsanders",
     "engines": {
         "vscode": "^1.0.0"
@@ -14,14 +14,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "An Old Hope",
+                "label": "Chris Young Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/AnOldHope.tmTheme"
-            },
-            {
-                "label": "An Old Hope Light",
-                "uiTheme": "vs",
-                "path": "./themes/AnOldHopeLight.tmTheme"
+                "path": "./themes/YoungDark.tmTheme"
             }
         ]
     }
